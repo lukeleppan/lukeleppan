@@ -1,1 +1,1 @@
-![](https://komarev.com/ghpvc/?lukeleppan)
+![](https://komarev.com/ghpvc/?username=lukeleppan)
